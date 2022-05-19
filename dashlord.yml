@@ -127,8 +127,7 @@ urls:
       - api
     repositories:
       - etalab/admin_api_entreprise
-      - etalab/entreprise.api.gouv.fr
-      
+      - etalab/entreprise.api.gouv.fr 
   - url: https://eva.beta.gouv.fr
     category: startup
     betaId: eva
